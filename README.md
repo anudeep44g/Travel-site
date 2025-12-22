@@ -4,7 +4,7 @@ A travel website with Azure Functions backend integration.
 
 ## Prerequisites
 
-- Python 3.9 or later (3.11.9 recommended)
+- Python 3.9 or later (3.11.x or 3.12.x recommended)
 - Azure Functions Core Tools (version 4.x)
 - Azure Storage Emulator or Azurite (for local development)
 
