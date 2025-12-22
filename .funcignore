@@ -1,0 +1,12 @@
+.git*
+.vscode
+.venv
+__azurite_db*__.json
+__blobstorage__
+__queuestorage__
+.python_packages
+.tmp
+.DS_Store
+Thumbs.db
+*.log
+node_modules

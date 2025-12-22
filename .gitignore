@@ -27,3 +27,17 @@ nbproject
 .komodotools
 _notes
 dwsync.xml
+
+# Azure Functions
+bin
+obj
+appsettings.json
+local.settings.json
+__blobstorage__
+__queuestorage__
+__azurite_db*__.json
+.python_packages
+.venv
+.env
+__pycache__
+*.pyc
